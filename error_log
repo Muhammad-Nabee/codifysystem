@@ -1,0 +1,32 @@
+[14-Jul-2021 05:58:11 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.3.0". You are running 7.2.34. in /home2/codifypk/system.codify.pk/vendor/composer/platform_check.php on line 24
+[29-Jul-2021 07:58:09 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\UserAuthController::destroy() in /home2/codifypk/system.codify.pk/app/Http/Controllers/UserAuthController.php on line 229
+[31-Jul-2021 07:46:47 UTC] PHP Notice:  Array to string conversion in /home2/codifypk/system.codify.pk/routes/web.php on line 43
+[31-Jul-2021 07:51:40 UTC] PHP Notice:  Array to string conversion in /home2/codifypk/system.codify.pk/routes/web.php on line 43
+[02-Aug-2021 05:59:40 UTC] PHP Fatal error:  Cannot use DB as DB because the name is already in use in /home2/codifypk/system.codify.pk/app/Http/Controllers/UserAuthController.php on line 10
+[02-Aug-2021 18:15:15 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\UserAuthController::edit() in /home2/codifypk/system.codify.pk/app/Http/Controllers/UserAuthController.php on line 277
+[12-Aug-2021 07:32:13 UTC] PHP Fatal error:  Cannot use [] for reading in /home2/codifypk/system.codify.pk/storage/framework/views/100ee9ab0103ee304e89c333abe28517fb72e006.php on line 48
+[15-Aug-2021 18:24:38 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\UserAuthController::change_status_progress() in /home2/codifypk/system.codify.pk/app/Http/Controllers/UserAuthController.php on line 364
+[15-Aug-2021 18:26:31 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\UserAuthController::change_status_progress() in /home2/codifypk/system.codify.pk/app/Http/Controllers/UserAuthController.php on line 364
+[28-Aug-2021 11:39:01 Asia/Karachi] PHP Fatal error:  Cannot use [] for reading in /home2/codifypk/system.codify.pk/app/Http/Controllers/ReportController.php on line 76
+[28-Aug-2021 11:40:38 Asia/Karachi] PHP Fatal error:  Cannot use [] for reading in /home2/codifypk/system.codify.pk/app/Http/Controllers/ReportController.php on line 76
+[28-Aug-2021 12:13:46 Asia/Karachi] PHP Fatal error:  Cannot use [] for reading in /home2/codifypk/system.codify.pk/app/Http/Controllers/ReportController.php on line 77
+[28-Aug-2021 12:15:19 Asia/Karachi] PHP Fatal error:  Cannot use [] for reading in /home2/codifypk/system.codify.pk/app/Http/Controllers/ReportController.php on line 77
+[28-Aug-2021 12:22:06 Asia/Karachi] PHP Fatal error:  Cannot use [] for reading in /home2/codifypk/system.codify.pk/app/Http/Controllers/ReportController.php on line 77
+[02-Sep-2021 11:07:41 Asia/Karachi] PHP Fatal error:  Cannot use empty array elements in arrays in /home2/codifypk/system.codify.pk/app/Http/Controllers/ReportController.php on line 111
+[02-Sep-2021 12:49:16 Asia/Karachi] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20087544448635464 bytes) in /home2/codifypk/system.codify.pk/vendor/laravel/framework/src/Illuminate/Support/Str.php on line 525
+[02-Sep-2021 16:23:32 Asia/Karachi] PHP Warning:  Unterminated comment starting line 136 in /home2/codifypk/system.codify.pk/app/Http/Controllers/EmployeeController.php on line 136
+[11-Sep-2021 14:45:55 Asia/Karachi] PHP Fatal error:  Cannot use [] for reading in /home2/codifypk/system.codify.pk/storage/framework/views/a508de4ae4ece92acf04e7329f5d95e3c3503750.php on line 110
+[11-Sep-2021 14:46:25 Asia/Karachi] PHP Fatal error:  Cannot use [] for reading in /home2/codifypk/system.codify.pk/storage/framework/views/a508de4ae4ece92acf04e7329f5d95e3c3503750.php on line 110
+[14-Sep-2021 11:18:44 Asia/Karachi] PHP Fatal error:  Cannot use [] for reading in /home2/codifypk/system.codify.pk/storage/framework/views/a508de4ae4ece92acf04e7329f5d95e3c3503750.php on line 112
+[14-Sep-2021 15:59:34 Asia/Karachi] PHP Fatal error:  Cannot use [] for reading in /home2/codifypk/system.codify.pk/app/Http/Controllers/UserAuthController.php on line 594
+[14-Sep-2021 16:10:27 Asia/Karachi] PHP Fatal error:  Cannot use [] for reading in /home2/codifypk/system.codify.pk/app/Http/Controllers/UserAuthController.php on line 594
+[15-Sep-2021 16:07:36 Asia/Karachi] PHP Fatal error:  Cannot use [] for reading in /home/codify/public_html/system.codify.pk/storage/framework/views/f9ec68178de4d8441242f34b0db6342906f49f08.php on line 114
+[20-Sep-2021 18:16:10 Asia/Karachi] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/codify/public_html/system.codify.pk/app/Models/Notification.php on line 4
+[21-Sep-2021 13:24:57 Asia/Karachi] PHP Fatal error:  Cannot redeclare App\Http\Controllers\UserAuthController::admin_approval() in /home/codify/public_html/system.codify.pk/app/Http/Controllers/UserAuthController.php on line 549
+[21-Sep-2021 13:28:02 Asia/Karachi] PHP Fatal error:  Cannot redeclare App\Http\Controllers\UserAuthController::admin_approval() in /home/codify/public_html/system.codify.pk/app/Http/Controllers/UserAuthController.php on line 549
+[21-Sep-2021 17:27:33 Asia/Karachi] PHP Fatal error:  Cannot use [] for reading in /home/codify/public_html/system.codify.pk/storage/framework/views/5bf42d99a72b275d2d805ba64a04fc1f203c2558.php on line 40
+[22-Sep-2021 11:39:26 Asia/Karachi] PHP Fatal error:  Cannot use [] for reading in /home/codify/public_html/system.codify.pk/storage/framework/views/5bf42d99a72b275d2d805ba64a04fc1f203c2558.php on line 43
+[22-Sep-2021 13:17:08 Asia/Karachi] PHP Fatal error:  Cannot use [] for reading in /home/codify/public_html/system.codify.pk/storage/framework/views/5bf42d99a72b275d2d805ba64a04fc1f203c2558.php on line 44
+[28-Sep-2021 11:55:34 Asia/Karachi] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home/codify/public_html/system.codify.pk/app/Http/Controllers/EmployeeController.php on line 162
+[29-Sep-2021 16:39:30 Asia/Karachi] PHP Fatal error:  Cannot use Mail as Mail because the name is already in use in /home/codify/public_html/system.codify.pk/app/Http/Controllers/UserAuthController.php on line 21
+[30-Sep-2021 15:39:25 Asia/Karachi] PHP Fatal error:  Cannot use [] for reading in /home/codify/public_html/system.codify.pk/app/Http/Controllers/UserAuthController.php on line 631

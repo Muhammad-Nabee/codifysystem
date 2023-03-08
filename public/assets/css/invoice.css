@@ -1,0 +1,85 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+/*------------Row-1-----------------*/
+.head{
+	background-color: gold;
+	padding: 12px;
+}
+.float-right img{
+	width: 150px;
+}
+/*------------Row-2-----------------*/
+.date{
+	width: 150px;
+	padding: 8px 0;
+	border-bottom: 2px solid gray;
+	text-align: center;
+}
+/*------------Row-3-----------------*/
+/*------------Row-4-----------------*/
+.text-primary{
+	width: 100%;
+	padding: 8px 0;
+	border-bottom: 2px solid gray;
+}
+/*------------Row-5-----------------*/
+thead{
+	background-color: gold;
+}
+/*------------Row-6-----------------*/
+.result-text section {
+    margin: 3px 28px;
+}
+.result section{
+	width: 245px;
+	border-bottom: 2px solid gray;
+	text-align: right;
+}
+.total,.shipping{
+	border-bottom: 2px solid;
+	width: 250px; 
+}
+.balance{
+	text-align: right;
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+.doller{
+	border-bottom: 2px solid;
+	width: 100%;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+.sign{
+	margin-left: 200px;
+	margin-right: 35px;
+}
+/*------------Media-Query-----------------*/
+
+@media(max-width: 425px){
+	.row1 .float-left{
+		margin-left: 100px;
+	}
+	.float-right{
+		margin-right: 90px;
+	}
+	.float-right section{
+		margin-right: 90px;
+	}
+	.float-left .remark{
+		display: none;
+	}
+	.result-text{
+		margin-left: 200px;
+	}
+	.balance{
+		margin-right: 120px;
+	}
+	
+
+
+	
+}
